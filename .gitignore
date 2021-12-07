@@ -1,3 +1,5 @@
 dl.cfg
 .ipynb_checkpoints/
 rawdata.pickle
+rawdata.txt
+.DS_Store
