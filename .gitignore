@@ -3,3 +3,5 @@ dl.cfg
 rawdata.pickle
 rawdata.txt
 .DS_Store
+model_frame.csv
+csv_data.csv
