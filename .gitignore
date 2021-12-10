@@ -5,3 +5,7 @@ rawdata.txt
 .DS_Store
 model_frame.csv
 csv_data.csv
+,gitignore.swp
+Tableau_Dashboard.twb
+latestrawdata.pickle
+
