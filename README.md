@@ -13,7 +13,7 @@ Also, you can use the default start and end date to obtain the desired data in t
 *Source Wikepedia :*
 https://en.wikipedia.org/wiki/Near-Earth_object
 
-### **Known Near Earth Objects : **
+### **Known Near Earth Objects :**
 ![Known Near Earth Objects](images/neo.gif)
 
 ### **Flyby of asteroid 2004 FH (centre dot being followed by the sequence)**
