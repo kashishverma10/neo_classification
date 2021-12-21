@@ -9,6 +9,7 @@ To predict the potentially hazardous asteroid from the Near earth objects data f
 - Also, you can use the default start and end date to obtain the desired data in the code or use the default dates to train the model on that data.
 
 ## **Project Concept**
+*Quote by Stephen Hawking for #AsteroidDay: “One of the major threats to intelligent life in our universe is a high probability of an asteroid colliding with an inhabited planet.”* [Source](https://nypost.com/2016/11/23/stephen-hawking-says-asteroids-pose-major-threat-to-humanity/)
 
 *Wikepedia :*
 https://en.wikipedia.org/wiki/Near-Earth_object
