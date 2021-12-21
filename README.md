@@ -1,10 +1,6 @@
 # **NEO (Near-Earth Objects) PHA Classification**
 ## Machine Learning model to predict potentially hazardous asteroids
-
-### **Known Near Earth Objects**
-![Known Near Earth Objects](images/neo.gif)
-Source: Wikepedia
-
+---
 ## **Goal**
 To predict the potentially hazardous asteroid from the Near earth objects data feed available on NASA's public API. The ML model will predict the potentially hazardous asteroids or PHA's by training different ML algorithms on multiple asteroids attributes.
 
@@ -22,6 +18,10 @@ https://theskylive.com/near-earth-objects
 
 ### **Flyby of asteroid 2004 FH (centre dot being followed by the sequence)**
 ![Flyby of asteroid 2004 FH (centre dot being followed by the sequence)](images/Asteroid_2004_FH.gif)
+
+### **Known Near Earth Objects**
+![Known Near Earth Objects](images/neo.gif)
+Source: Wikepedia
 
 ## **Data Source**
 
