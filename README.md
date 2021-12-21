@@ -1,5 +1,5 @@
 # **NEO (Near-Earth Objects) PHA Classification**
-## Machine Learning model prediction
+## Machine Learning model to predict potentially hazardous asteroids
 
 ### **Known Near Earth Objects**
 ![Known Near Earth Objects](images/neo.gif)
